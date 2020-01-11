@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>3gPyIrIt.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/3gPyIrIt.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>64.28571428571429</ymin>
+        <xmax>85.66017316017316</xmax>
+        <ymax>79.97835497835499</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>36.688311688311686</ymin>
+        <xmax>40.63852813852814</xmax>
+        <ymax>49.675324675324674</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>45.34632034632035</xmin>
+        <ymin>29.97835497835498</ymin>
+        <xmax>80.57359307359307</xmax>
+        <ymax>37.121212121212125</ymax>
+    </bndbox>
+</object>
+</annotation>

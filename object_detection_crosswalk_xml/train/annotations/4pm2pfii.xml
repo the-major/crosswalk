@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>4pm2pfii.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/4pm2pfii.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>21.915584415584416</xmin>
+        <ymin>20.346320346320347</ymin>
+        <xmax>100</xmax>
+        <ymax>53.03030303030303</ymax>
+    </bndbox>
+</object>
+</annotation>

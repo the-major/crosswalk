@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>3mui4FsP.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/3mui4FsP.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>12.932900432900432</xmin>
+        <ymin>38.311688311688314</ymin>
+        <xmax>99.83766233766232</xmax>
+        <ymax>63.961038961038966</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>55nxyTEP.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/55nxyTEP.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>54.70779220779221</xmin>
+        <ymin>21.861471861471863</ymin>
+        <xmax>100</xmax>
+        <ymax>35.82251082251082</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>21.861471861471863</ymin>
+        <xmax>35.87662337662338</xmax>
+        <ymax>32.03463203463204</ymax>
+    </bndbox>
+</object>
+</annotation>

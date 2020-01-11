@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>8upFVj6X.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/8upFVj6X.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>18.344155844155843</xmin>
+        <ymin>57.79220779220779</ymin>
+        <xmax>100</xmax>
+        <ymax>100</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.924242424242424</xmin>
+        <ymin>21.645021645021643</ymin>
+        <xmax>90.96320346320346</xmax>
+        <ymax>50.324675324675326</ymax>
+    </bndbox>
+</object>
+</annotation>

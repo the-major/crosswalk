@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>74FNUTrK.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/74FNUTrK.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3.3008658008658007</xmin>
+        <ymin>34.09090909090909</ymin>
+        <xmax>96.5909090909091</xmax>
+        <ymax>39.61038961038961</ymax>
+    </bndbox>
+</object>
+</annotation>

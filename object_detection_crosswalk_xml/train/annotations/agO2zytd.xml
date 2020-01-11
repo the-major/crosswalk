@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>agO2zytd.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/agO2zytd.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>89.28571428571429</ymin>
+        <xmax>99.83766233766234</xmax>
+        <ymax>100</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>60.38961038961039</ymin>
+        <xmax>92.91125541125541</xmax>
+        <ymax>65.80086580086581</ymax>
+    </bndbox>
+</object>
+</annotation>

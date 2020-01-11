@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>272Dbayu.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/272Dbayu.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>13.14935064935065</xmin>
+        <ymin>56.6017316017316</ymin>
+        <xmax>100</xmax>
+        <ymax>80.62770562770562</ymax>
+    </bndbox>
+</object>
+</annotation>

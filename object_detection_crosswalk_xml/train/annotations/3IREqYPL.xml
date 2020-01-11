@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>3IREqYPL.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/3IREqYPL.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.3787878787878788</xmin>
+        <ymin>53.78787878787879</ymin>
+        <xmax>99.94588744588744</xmax>
+        <ymax>84.84848484848484</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>19.318181818181817</xmin>
+        <ymin>34.1991341991342</ymin>
+        <xmax>34.9025974025974</xmax>
+        <ymax>37.33766233766234</ymax>
+    </bndbox>
+</object>
+</annotation>

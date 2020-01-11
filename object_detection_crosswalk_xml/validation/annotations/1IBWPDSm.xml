@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1IBWPDSm.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/1IBWPDSm.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.406926406926407</xmin>
+        <ymin>60.064935064935064</ymin>
+        <xmax>89.44805194805194</xmax>
+        <ymax>74.89177489177489</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>13.365800865800866</xmin>
+        <ymin>36.7965367965368</ymin>
+        <xmax>71.91558441558442</xmax>
+        <ymax>40.25974025974026</ymax>
+    </bndbox>
+</object>
+</annotation>

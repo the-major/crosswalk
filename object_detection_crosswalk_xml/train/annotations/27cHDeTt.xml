@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>27cHDeTt.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/27cHDeTt.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>22.78138528138528</xmin>
+        <ymin>63.74458874458875</ymin>
+        <xmax>100</xmax>
+        <ymax>86.03896103896105</ymax>
+    </bndbox>
+</object>
+</annotation>

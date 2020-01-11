@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>7pSifwlo.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/7pSifwlo.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>49.24242424242424</ymin>
+        <xmax>99.72943722943722</xmax>
+        <ymax>75.21645021645021</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.166666666666667</xmin>
+        <ymin>21.861471861471863</ymin>
+        <xmax>40.42207792207792</xmax>
+        <ymax>25.21645021645022</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>8mNucHr5.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/8mNucHr5.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>6.0064935064935066</xmin>
+        <ymin>55.95238095238095</ymin>
+        <xmax>100</xmax>
+        <ymax>78.13852813852813</ymax>
+    </bndbox>
+</object>
+</annotation>

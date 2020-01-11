@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>3jMWMTYf.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/3jMWMTYf.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>13.14935064935065</xmin>
+        <ymin>51.298701298701296</ymin>
+        <xmax>99.51298701298701</xmax>
+        <ymax>97.4025974025974</ymax>
+    </bndbox>
+</object>
+</annotation>

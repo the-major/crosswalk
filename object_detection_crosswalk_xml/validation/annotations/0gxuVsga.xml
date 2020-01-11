@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>0gxuVsga.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/0gxuVsga.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>58.333333333333336</ymin>
+        <xmax>71.91558441558442</xmax>
+        <ymax>76.83982683982684</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>65.53030303030303</xmin>
+        <ymin>43.93939393939394</ymin>
+        <xmax>100</xmax>
+        <ymax>57.03463203463203</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>16.829004329004327</xmin>
+        <ymin>41.01731601731602</ymin>
+        <xmax>61.63419913419913</xmax>
+        <ymax>47.294372294372295</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>2EIKCXvX.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/2EIKCXvX.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>56.493506493506494</ymin>
+        <xmax>87.06709956709956</xmax>
+        <ymax>97.07792207792207</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>48.701298701298704</ymin>
+        <xmax>28.084415584415584</xmax>
+        <ymax>55.952380952380956</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>51.35281385281385</xmin>
+        <ymin>48.59307359307359</ymin>
+        <xmax>82.41341991341992</xmax>
+        <ymax>54.870129870129865</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>5ePuHalx.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/5ePuHalx.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>89.17748917748918</ymin>
+        <xmax>57.08874458874459</xmax>
+        <ymax>99.24242424242425</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>61.74242424242424</xmin>
+        <ymin>75.86580086580086</ymin>
+        <xmax>100</xmax>
+        <ymax>87.87878787878788</ymax>
+    </bndbox>
+</object>
+</annotation>

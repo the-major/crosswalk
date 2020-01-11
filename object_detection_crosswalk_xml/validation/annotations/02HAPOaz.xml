@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>02HAPOaz.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/02HAPOaz.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>37.5</xmin>
+        <ymin>25.865800865800864</ymin>
+        <xmax>100</xmax>
+        <ymax>79.11255411255411</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>22.294372294372295</ymin>
+        <xmax>28.95021645021645</xmax>
+        <ymax>29.004329004329005</ymax>
+    </bndbox>
+</object>
+</annotation>

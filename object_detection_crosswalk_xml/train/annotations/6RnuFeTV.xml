@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>6RnuFeTV.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/6RnuFeTV.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3.6255411255411256</xmin>
+        <ymin>31.385281385281385</ymin>
+        <xmax>94.2099567099567</xmax>
+        <ymax>40.259740259740255</ymax>
+    </bndbox>
+</object>
+</annotation>

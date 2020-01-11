@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>25ORldjs.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/25ORldjs.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>15.097402597402597</xmin>
+        <ymin>38.2034632034632</ymin>
+        <xmax>100</xmax>
+        <ymax>57.68398268398268</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>18.72294372294372</xmin>
+        <ymin>30.086580086580085</ymin>
+        <xmax>65.9090909090909</xmax>
+        <ymax>39.39393939393939</ymax>
+    </bndbox>
+</object>
+</annotation>

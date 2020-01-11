@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>4lLIG4Bo.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/4lLIG4Bo.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>82.79220779220779</ymin>
+        <xmax>99.4047619047619</xmax>
+        <ymax>93.5064935064935</ymax>
+    </bndbox>
+</object>
+</annotation>

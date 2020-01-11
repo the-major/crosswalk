@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1087IhCD.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/1087IhCD.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.7034632034632035</xmin>
+        <ymin>38.311688311688314</ymin>
+        <xmax>100</xmax>
+        <ymax>65.9090909090909</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>aiZagtq5.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/aiZagtq5.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>48.268398268398265</ymin>
+        <xmax>90.85497835497836</xmax>
+        <ymax>100</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>10.984848484848484</xmin>
+        <ymin>22.727272727272727</ymin>
+        <xmax>68.34415584415584</xmax>
+        <ymax>33.98268398268398</ymax>
+    </bndbox>
+</object>
+</annotation>

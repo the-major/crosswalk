@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>3BOVeTBW.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/3BOVeTBW.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>23.214285714285715</xmin>
+        <ymin>24.025974025974026</ymin>
+        <xmax>97.45670995670994</xmax>
+        <ymax>46.753246753246756</ymax>
+    </bndbox>
+</object>
+</annotation>

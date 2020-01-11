@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>9g47AxVk.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/9g47AxVk.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>79.22077922077922</ymin>
+        <xmax>95.07575757575758</xmax>
+        <ymax>100</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>60.87662337662338</xmin>
+        <ymin>44.58874458874459</ymin>
+        <xmax>100</xmax>
+        <ymax>77.16450216450217</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>55.73593073593074</ymin>
+        <xmax>59.9025974025974</xmax>
+        <ymax>81.27705627705627</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>17.261904761904763</xmin>
+        <ymin>36.25541125541125</ymin>
+        <xmax>47.67316017316017</xmax>
+        <ymax>40.692640692640694</ymax>
+    </bndbox>
+</object>
+</annotation>

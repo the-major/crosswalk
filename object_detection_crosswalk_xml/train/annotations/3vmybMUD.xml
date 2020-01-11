@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>3vmybMUD.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/3vmybMUD.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>68.72294372294373</ymin>
+        <xmax>94.42640692640693</xmax>
+        <ymax>74.8917748917749</ymax>
+    </bndbox>
+</object>
+</annotation>

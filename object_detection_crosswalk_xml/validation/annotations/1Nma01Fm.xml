@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>1Nma01Fm.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/1Nma01Fm.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>3.95021645021645</xmin>
+        <ymin>15.692640692640692</ymin>
+        <xmax>99.08008658008657</xmax>
+        <ymax>45.02164502164502</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>9ECBZML4.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/9ECBZML4.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>19.534632034632036</xmin>
+        <ymin>41.45021645021645</ymin>
+        <xmax>100</xmax>
+        <ymax>49.134199134199136</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>69.42640692640693</xmin>
+        <ymin>27.92207792207792</ymin>
+        <xmax>100</xmax>
+        <ymax>30.519480519480517</ymax>
+    </bndbox>
+</object>
+</annotation>

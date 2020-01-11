@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>3AJMnast.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/3AJMnast.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>6.1147186147186146</xmin>
+        <ymin>43.61471861471861</ymin>
+        <xmax>100</xmax>
+        <ymax>96.21212121212122</ymax>
+    </bndbox>
+</object>
+</annotation>

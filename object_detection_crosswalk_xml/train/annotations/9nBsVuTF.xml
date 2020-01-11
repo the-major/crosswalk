@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>9nBsVuTF.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/9nBsVuTF.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.7034632034632035</xmin>
+        <ymin>14.177489177489177</ymin>
+        <xmax>100</xmax>
+        <ymax>76.08225108225108</ymax>
+    </bndbox>
+</object>
+</annotation>

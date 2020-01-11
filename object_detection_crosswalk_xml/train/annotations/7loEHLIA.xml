@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>7loEHLIA.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/7loEHLIA.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>10.119047619047619</xmin>
+        <ymin>27.92207792207792</ymin>
+        <xmax>99.94588744588745</xmax>
+        <ymax>72.07792207792208</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>0RGOaCir.png</filename>
+    <path>crosswalk-PascalVOC-export/Annotations/0RGOaCir.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>27.056277056277057</xmin>
+        <ymin>43.290043290043286</ymin>
+        <xmax>99.72943722943722</xmax>
+        <ymax>60.281385281385276</ymax>
+    </bndbox>
+</object><object>
+    <name>crosswalk</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>65.47619047619048</ymin>
+        <xmax>99.62121212121212</xmax>
+        <ymax>100</ymax>
+    </bndbox>
+</object>
+</annotation>
